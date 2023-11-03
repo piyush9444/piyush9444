@@ -1,16 +1,23 @@
-### Hi there 👋
+# piyush9444 Token
+This is a simple Ethereum smart contract written in Solidity for creating and managing a custom token called "MyToken." You can deploy and interact with this contract using Remix IDE or any other Ethereum development environment. This contract provides basic functionality to mint and burn tokens.
 
-<!--
-**piyush9444/piyush9444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contract Details
+### Token Information
+Token Name: PIYUSH9444
+Token Symbol: PIYUSH
+Token Supply
+The initial token supply is set to 0. You can increase the supply by using the mint function and decrease it using the burn function.
 
-Here are some ideas to get you started:
+## Usage
+You can deploy this contract on Remix IDE or any Ethereum-compatible development environment to manage your custom token. After deploying, you can use the mint and burn functions to control the token supply.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Deploying
+- Create a new file in Remix
+- Paste the code from token.sol into remix
+- Compile the code
+- Go to DEPLOY AND RUN TRANSACTIONS tab on the sidebar and click on Deploy
+- Start interacting
+- Happy Tokenizing!
+
+## License: 
+MIT License
