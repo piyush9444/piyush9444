@@ -1,4 +1,4 @@
-# piyush9444 Token
+# PIYUSH9444 Token
 This is a simple Ethereum smart contract written in Solidity for creating and managing a custom token called "MyToken." You can deploy and interact with this contract using Remix IDE or any other Ethereum development environment. This contract provides basic functionality to mint and burn tokens.
 
 ## Contract Details
