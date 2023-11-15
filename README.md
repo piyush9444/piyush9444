@@ -3,9 +3,9 @@ This is a simple Ethereum smart contract written in Solidity for creating and ma
 
 ## Contract Details
 ### Token Information
-Token Name: PIYUSH9444
-Token Symbol: PIYUSH
-Token Supply
+TOKEN NAME: PIYUSH9444
+TOKEN SYMBOL: PIYUSH
+TOKEN SUPPLY
 The initial token supply is set to 0. You can increase the supply by using the mint function and decrease it using the burn function.
 
 ## Usage
